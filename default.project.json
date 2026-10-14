@@ -1,0 +1,33 @@
+{
+  "name": "NIGHTFALL",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$ignoreUnknownInstances": true,
+      "Shared": {
+        "$path": "src/ReplicatedStorage/Shared"
+      }
+    },
+    "ServerScriptService": {
+      "$ignoreUnknownInstances": true,
+      "Bootstrap": {
+        "$path": "src/ServerScriptService/Bootstrap.server.luau"
+      },
+      "Server": {
+        "$path": "src/ServerScriptService/Server"
+      }
+    },
+    "StarterPlayer": {
+      "$ignoreUnknownInstances": true,
+      "StarterPlayerScripts": {
+        "$ignoreUnknownInstances": true,
+        "ClientBootstrap": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/ClientBootstrap.client.luau"
+        },
+        "Client": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/Client"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Keep every text file LF in the repository and on disk; Rojo copies files into Studio byte for byte.
+* text=auto eol=lf

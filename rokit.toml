@@ -1,0 +1,5 @@
+# Tools for this project, managed by Rokit (https://github.com/rojo-rbx/rokit).
+# Run `rokit install` once after cloning.
+
+[tools]
+rojo = "rojo-rbx/rojo@7.7.0"
