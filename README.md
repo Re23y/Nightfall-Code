@@ -18,8 +18,9 @@ saving.
 
 ## How it's being made
 
-I'm learning Roblox development from no programming experience, with an AI tutor. The tutor
-demonstrates a pattern once; I plan each system in plain English (what it owns, what starts it,
+I'm learning Roblox development with an AI tutor. I'd used Roblox Studio and written a few small
+scripts before, but not much, so I asked to be taught from the very basics and not skip anything.
+The tutor demonstrates a pattern once; I plan each system in plain English (what it owns, what starts it,
 when it stops, what it needs), write it, and fix what the tutor's review finds. The table below
 says who wrote each file.
 
